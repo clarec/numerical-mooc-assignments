@@ -1,7 +1,7 @@
 numerical-mooc-assignments
 ==========================
 
-This repository contains the assignments for the Practical Numerical Methods with Python course:
+This repository contains my completed assignments for the [Practical Numerical Methods with Python](http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about) course:
 
 * Module 1: Rocket_flight.ipynb
 * Module 2: Module2 - traffic problem.ipynb
